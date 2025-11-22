@@ -1,7 +1,7 @@
 # 10_VersionamentoQuizStop
-- Neste versionamento do jogo Palavras,  o código AudioManager.cs foi criado, onde será desenvolvida a trilha
-- sonora, cliques dos botões, sons da tela de potuação e outros audios que forem necessário neste quiz.
-- <img src="2025-11-20.png" width="500px">
+- Neste versionamento do jogo Palavras,  o componente AudioMixer.cs foi criado, onde será organizado os efeitos
+- sonoros, cliques forem necessário neste quiz.
+- <img src="AudioMixer.png" width="500px">
 
  
 # CÓDIGO FONTE DOS EFEITOS SONOROS:
